@@ -12,8 +12,6 @@ Furthermore, I gained UI and UX development skills by designing and creating an 
 
 
 
-<img src="https://user-images.githubusercontent.com/99574068/178652389-e4fa395f-b4e5-4335-ae9f-cefe5eaf4d89.PNG" width=40% height=40%>
-
 The introductory page introduces my the details of my application
   as well as the capabilities of the Currency Management App.
 
