@@ -24,9 +24,3 @@ The Real-Time Statistics page assists the user to gain information of real-time 
   of various types of currencies that are used around the world.
 <br>
 <br>
-
-
-<img src="https://user-images.githubusercontent.com/99574068/178650670-cbe7ba7b-a05f-46bf-918c-2c82bf0a9033.PNG" width=40% height=40%>
-
-Lastly, the Contacts page displays my contact information 
-  which allows the users get in touch with ideas for further improvement. 
